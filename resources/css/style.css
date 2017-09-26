@@ -7,7 +7,11 @@ body {
   font-size: 22px;
   text-align: center;
 }
-
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 header {
   position: fixed;
   height: 69px;
