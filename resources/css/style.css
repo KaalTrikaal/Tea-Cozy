@@ -43,6 +43,7 @@ color: seashell;
   height: 700px;
   width: 1200px;
   padding-top: 70px;
+  background-image: url("img-mission-background.jpg");
 }
 h2, h4 {
   margin: 0;
